@@ -1,0 +1,12 @@
+ Input Date and Time (Format = YYYYMMDDHHmm):
+ (YYYY= year (2010-2030), MM=month (01-12), DD=day-of-month, HH=UTC-hour (00-23), mm=minue (00-59)
+ NOTE VALID RANGE: From 201001010000 (Jan 1, 2010, 0000 UTC) to 203012312300 (Dec 31, 2030, 2300 UTC)
+ 201001010000
+ User-entered date_time =              201001010000
+ Current Earth/Moon Distance (km) and % of mean =     359367.0000000000      
+    93.48777315296566     
+ Current Earth/Sun Distance (km) and % of mean =     147099958.0000000      
+    98.33015298812519     
+ Current lunar phase angle (degrees) =     2.858000    
+ SCALE_FACTOR =     1.186445796092770     
+ Lunar Irradiance (mW/m^2-micron):     4.564884840283617     
