@@ -1,6 +1,3 @@
-setwd("/Users/jinwenxu/Documents/GitHub/Lunar-Irradiance-Calculation")
-getwd()
-
 lunar_irrad_DNB <- function(date_time){
   print("Input Date and Time (Format = YYYYMMDDHHmm):")
   print("(YYYY= year (2010-2030), MM=month (01-12), DD=day-of-month, HH=UTC-hour (00-23), mm=minue (00-59)")
